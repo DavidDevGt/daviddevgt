@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h3 align="left">Hi 👋! My name is David and I'm a Web Developer, from Guatemala.</h3>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media0.giphy.com/media/CW16nFVXLSQxSMUEMd/giphy.gif?cid=ecf05e47pmdt6c2yji1hop8tvtnwepyg2bfk4mjlz9nb25sr&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
