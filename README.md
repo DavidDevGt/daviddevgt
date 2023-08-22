@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/CW16nFVXLSQxSMUEMd/giphy.gif?cid=ecf05e47pmdt6c2yji1hop8tvtnwepyg2bfk4mjlz9nb25sr&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="150" src="https://gifdb.com/images/high/vaporwave-desktop-eye-of-providence-vzktxp6xvvafmrnx.webp"  />
 
 ###
 
