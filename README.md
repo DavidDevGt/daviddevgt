@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm actively developing with JavaScript and Bootstrap 5 for frontend projects.<br>🌱 I'm expanding my skills by learning PHP for backend development.<br>⚡ Pursuing a degree in Software Development at Galileo University.
+🔭 I'm actively developing with JavaScript and PHP for fullstack apps development.<br>⚡ Pursuing a degree in Software Development at Galileo University.
 
 
 ## 🌐 Socials:
