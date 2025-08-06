@@ -16,7 +16,3 @@ I'm interested in everything related to **technology**, **programming**, and cra
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DavidDevGt\&theme=synthwave\&hide_border=false)<br/>
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=DavidDevGt\&icon=0\&color=0)](https://visitcount.itsvg.in)
-
----
