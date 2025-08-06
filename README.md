@@ -1,14 +1,22 @@
+---
+
 # 💫 David Vargas
 
-I really enjoy ⭐ everything related to technology 🤖, programming 👨‍💻, and I'm passionate about web and mobile development.
+I'm **David Vargas**, a developer who enjoys building impactful solutions through **web and mobile technologies**.
+I'm interested in everything related to **technology**, **programming**, and crafting digital experiences.
 
-🌿 Trying to become a better person every day
-⌛ I enjoy personal development and productivity
-🫂 I enjoy working in teams and collaborating with other people
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=DavidDevGt&theme=synthwave&hide_border=false)<br/>
+🌿 Continuously learning and striving to become a better version of myself
+⌛ Enthusiast of **personal growth**, productivity, and effective workflows
+🤝 I thrive in **team environments** and love collaborating with others to bring ideas to life
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DavidDevGt&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# 📊 GitHub Stats
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=DavidDevGt\&theme=synthwave\&hide_border=false)<br/>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=DavidDevGt\&icon=0\&color=0)](https://visitcount.itsvg.in)
+
+---
